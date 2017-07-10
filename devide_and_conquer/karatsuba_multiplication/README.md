@@ -1,6 +1,9 @@
+## Karatsuba Multiplication
+
 This is an example code that applys Karatsuba multipliccation method on two numbers using Divide and Conquer paradigm.
 
-**USAGE
+## USAGE
+
 In your terminal type 
 
     $ python karatsuba_multiplication.py x y

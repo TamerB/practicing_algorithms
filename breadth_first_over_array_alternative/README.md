@@ -1,6 +1,9 @@
-This is an example code of detecting adjacent 1s (horisontally and vertically) in a bidimensional array.
+## Breadth First over array alternative
 
-**USAGE
+This is an example code of detecting adjacent 1s (horisontally and vertically) in a bidimensional array. This example is to check if their are better approaches to solve such problem other than (or better than) using Breadth First algorithm.
+
+## USAGE
+
 In your terminal type 
 
     $ python bfs_over_array_alt.py array1 array2

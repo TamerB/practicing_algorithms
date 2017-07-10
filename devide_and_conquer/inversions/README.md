@@ -1,6 +1,9 @@
+## Inversions
+
 This is an example code for counting number of occurences of inverted orders among array items using Merge sort algorithm.
 
-**USAGE
+## USAGE
+
 In your terminal type 
 
     $ python inversions.py 2, 9, 7, 4, 8, 3, 1, 5, 6

@@ -1,6 +1,9 @@
-This is an example code of quicksort algorithm.
+## Quick Sort algorithm
 
-**USAGE
+This is an example code of quicksort algorithm. In this example, the pivot is by default the last item in the array. However, the best approach is to choose the pivot randomly from indices range (n / 4 + 1 to n - n / 4) where n is the array length.
+
+## USAGE
+
 In your terminal type 
 
     $ python quicksort.py 2, 9, 7, 4, 8, 3, 1, 5, 6
